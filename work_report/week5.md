@@ -229,3 +229,4 @@ Q. default로 HDFS에 어디에 저장되는지?
 NEXT_WEEK)
 ----------------
 1. oozie를 이용하여 여러 ecosystem 서비스 동작하기
+2. Zoomdata visualization 
