@@ -47,6 +47,14 @@
 * oozie sharelib update
 * SSO
 
+## < week8 >
+
+* MongoDB
+    * mongodb basic 강의 + LAB
+    * Demo
+* SSO
+* Flume HandsOn tutorial 작성
+
 
 
     
