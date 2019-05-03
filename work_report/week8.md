@@ -88,6 +88,14 @@ kibana 스키마 생성 -> ELK data upload -> viusalization
     * 계정 권한 문제로 compass에서 connect가 안될 때 \
     -> admin 권한으로 사용자 다시 추가하기 (clusters -> Security -> Add New User -> Atlas admin)
 
+<br>
+
+| mysql                | mongoDB              |
+| :-------------------:| :-------------------:|
+| DB                   | DB                   |
+| Table                | Collection           |
+| Row                  | Document             |
+| Column               | Field                |
 ---------------------
 
 

@@ -55,6 +55,13 @@
 * SSO
 * Flume HandsOn tutorial 작성
 
+## < week9 >
+
+* visualization
+    * kibana
+    * zoomdata
+* distcp
+
 
 
     
