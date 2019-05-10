@@ -62,6 +62,11 @@
     * zoomdata
 * distcp
 
+## < week10 >
+
+* test
+* zoomdata
+* flume, streamset demo
 
 
     
