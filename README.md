@@ -68,10 +68,17 @@
 * zoomdata
 * flume, streamset demo
 
-## < week11>
+## < week11 >
 
 * test
 * AD FS
 
+## < week12 >
+
+* trendminer
+    * study
+    * presentation
+* flume, streamset demo
+* flume custom interceptor
 
     
