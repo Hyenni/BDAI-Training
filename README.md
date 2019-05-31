@@ -80,5 +80,15 @@
     * presentation
 * flume, streamset demo
 * flume custom interceptor
+    * HostInterceptor.java
 
     
+## < week13 >
+
+* trendminer
+* flume custom interceptor
+    * TimestampInterceptor.java
+* cj Vibration Control data Handling
+    * Build Streamsets pipeline 
+
+
