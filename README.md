@@ -88,7 +88,13 @@
 * trendminer
 * flume custom interceptor
     * TimestampInterceptor.java
-* cj Vibration Control data Handling
+* cj Vibration Controller data Handling
     * Build Streamsets pipeline 
 
 
+## < week 14>
+
+* cj Vibration Controller data Handling
+    * hive table
+* impala dynamic resource pool
+* HDFS disk space limit
